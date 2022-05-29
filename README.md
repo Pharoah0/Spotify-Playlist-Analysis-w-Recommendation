@@ -124,36 +124,6 @@ One of which will use the cosine similarity from a matrix
 
 I am choosing this approach because the goal is to recommend specific songs that are similar to my favorite binge-worthy tunes.
 
-## Models
-For ease of viewing, the top 2 models are displayed here. For more results, please see my accompanying jupyter notebook in this repository!
-
-#### Logistic Regression
-![Logistic Regression](./images/LR_Model.png)  
-Interpretation of Playlist Inclusion with a Logistic Regression classifier:
-* 411 True Negatives: Songs not in my playlist
-* 141 False Positives: Predicted songs to be in my playlist, but are not present
-* 16 False Negatives: Predicted songs to not be in my playlist, but are present
-* 28 True Positives: Songs in my playlist
-
-#### SVM
-![Support Vector Machine](./images/SVM_Model.png )  
-Interpretation of negative sentiment with a simple Keras model:
-* 447 True Negatives: Songs not in my playlist
-* 105 False Positives: Predicted songs to be in my playlist, but are not present
-* 18 False Negatives: Predicted songs to not be in my playlist, but are present
-* 26 True Positives: Songs in my playlist
-
-## Song Recommendation
-<p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/headphones.jpeg" />
-</p>
-
-In my analyzing_playlists notebook, I  compared two different routes of content-based song recommendation.
-
-One of which will use the cosine similarity from a matrix
-& The other uses neighborhood collaborative filtering using the similarity metrics method
-
-I am choosing this approach because the goal is to recommend specific songs that are similar to my favorite binge-worthy tunes.
 ## Conclusions
 #### The best model is the Support Vector Machine model.
 
