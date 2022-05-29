@@ -96,7 +96,8 @@ Next, we ran a few classifier models and directly compared their metrics using a
 
 Below are the results!
 ## Models
-For ease of viewing, the top 2 models are displayed here. For more results, please see my accompanying jupyter notebook in this repository!
+For ease of viewing, the top 2 models are displayed here. 
+For more results, please see my accompanying jupyter notebook in this repository!
 
 #### Logistic Regression
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="50%" height="50%">
