@@ -53,6 +53,8 @@ In this case, the data had no null values and a few instances of duplicate entri
 Before EDA, I loaded in the datasets two different ways:
 * Loaded in my playlist as a standalone dataframe
 * Used the glob module to load all remaining playlists into one dataframe
+
+
 Next, I looked at the distribution columns of the numerical features, a heat map to show the relationship of these features to each other, and displayed the statistics of these features: 
 
 * **Length** — The length of a song measured in milliseconds
