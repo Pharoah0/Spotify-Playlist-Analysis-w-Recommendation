@@ -97,7 +97,7 @@ Below are the results!
 For ease of viewing, the top 2 models are displayed here. For more results, please see my accompanying jupyter notebook in this repository!
 
 #### Logistic Regression
-![Logistic Regression](./images/LR_Model.png)  
+<img src="https://github.com/Pharoah0/Analyzing-Consumer-Sentiment-with-NLP-Scikit-Learn-and-Keras/blob/main/images/LR_Model.png" width="50%" height="50%">
 Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 * 411 True Negatives: Songs not in my playlist
 * 141 False Positives: Predicted songs to be in my playlist, but are not present
@@ -105,7 +105,7 @@ Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 * 28 True Positives: Songs in my playlist
 
 #### SVM
-![Support Vector Machine](./images/SVM_Model.png )  
+<img src="https://github.com/Pharoah0/Analyzing-Consumer-Sentiment-with-NLP-Scikit-Learn-and-Keras/blob/main/images/SVM_Model.png" width="50%" height="50%">
 Interpretation of negative sentiment with a simple Keras model:
 * 447 True Negatives: Songs not in my playlist
 * 105 False Positives: Predicted songs to be in my playlist, but are not present
