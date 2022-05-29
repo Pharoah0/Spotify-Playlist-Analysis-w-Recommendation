@@ -1,0 +1,67 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,valence,key,energy,instrumentalness,liveness,loudness,speechiness,mode,tempo,time_signature
+Catching Eyes,Catching Eyes,49th & Main,2020-04-24,249533,0,0.854,0.678,0.144,6,0.594,0.00264,0.133,-12.482,0.24,0,125.892,4
+Sarita Colonia - Edit,Sarita Colonia,Sofia Kourtesis,2020-01-13,227317,38,0.0025,0.779,0.446,4,0.649,0.889,0.0989,-8.297,0.13,0,122.993,4
+So Close Now,So Close Now,LEGATO,2021-07-16,217380,39,0.0638,0.873,0.726,5,0.911,0.648,0.0779,-9.781,0.0694,0,125.998,4
+Alfa - Original Mix,Alfa EP,Crackazat,2021-01-22,285772,47,0.457,0.822,0.283,5,0.743,0.892,0.397,-8.211,0.104,0,123.987,4
+Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle,Love If You Need It (feat. Fi McCluskey),Horse Meat Disco,2021-04-23,204823,42,0.0787,0.758,0.771,2,0.898,0.000168,0.145,-4.32,0.0527,1,121.986,4
+Situation,Situation,Infinity Ink,2021-07-09,200000,32,0.00655,0.66,0.679,5,0.621,0.158,0.349,-9.935,0.0464,0,114.011,4
+Lost In Space (feat. SG Lewis),Lost In Space (feat. SG Lewis),Folamour,2021-05-05,143946,40,0.0242,0.671,0.512,8,0.649,3.76e-06,0.0395,-6.869,0.379,0,120.632,4
+Hard To Find - Girls of the Internet Remix - Short Edit,Hard To Find (Girls of the Internet Remix),Tender Games,2021-07-09,243779,34,0.00181,0.672,0.728,2,0.836,0.214,0.105,-8.106,0.0369,1,126.988,4
+Tom's Bar,MOSS,Osunlade,2020-07-17,250430,38,0.0678,0.712,0.908,1,0.481,0.339,0.192,-15.734,0.0498,0,122.991,4
+In My Soul,In My Soul,Demuja,2021-06-11,282580,35,0.00714,0.803,0.648,8,0.919,0.965,0.0662,-8.226,0.0721,0,124.011,4
+The Best Rapper Alive,The Best Rapper Alive,Dj Streaks,2020-02-14,487619,51,0.256,0.66,0.157,7,0.712,0.949,0.508,-10.89,0.169,1,125.983,4
+Domino,Domino,Demi Riquísimo,2021-07-16,271500,31,1.02e-05,0.746,0.249,6,0.97,0.925,0.092,-6.442,0.056,1,125.011,4
+Music Saved My Life,Music Saved My Life,Dimitri From Paris,2021-03-26,224258,37,0.0584,0.705,0.714,5,0.861,7.32e-06,0.0691,-6.066,0.053,0,120.025,4
+I Want You,I Want You,YNOT,2020-07-08,174985,33,0.00684,0.755,0.746,11,0.743,0.775,0.0964,-7.073,0.0377,1,121.987,4
+You Ain't Love (feat. Teni Tinks),You Ain't Love (feat. Teni Tinks),The Shapeshifters,2021-04-02,271475,39,0.098,0.722,0.502,9,0.827,0.000264,0.0745,-5.648,0.0789,0,122.039,4
+Motion,Motion,Karl Seery,2021-07-23,274226,0,0.0528,0.784,0.84,10,0.853,0.859,0.0493,-8.701,0.0991,0,134.995,4
+Seventies,Seventies,Theo Kottis,2020-11-06,196035,42,0.00172,0.703,0.81,6,0.922,0.652,0.103,-6.633,0.0556,0,126.979,4
+Nektar,Moon II,Iron Curtis,2020-06-15,198741,36,0.062,0.661,0.468,10,0.529,0.0204,0.362,-7.901,0.0978,0,118.971,4
+Please - Single Edit,Please,Jessie Ware,2021-04-28,219933,52,0.0325,0.665,0.454,7,0.69,0.0147,0.116,-7.275,0.0369,1,120.032,4
+The Sea,The Sea,Crazy Fluke,2021-07-09,194627,32,0.0144,0.791,0.0702,6,0.801,0.539,0.0955,-8.234,0.0747,1,120.999,4
+Emotion,Emotion EP,Purple Disco Machine,2019-07-19,184918,42,0.0128,0.724,0.84,0,0.896,0.00737,0.0663,-6.485,0.0388,0,122.023,4
+Isle of Taste - Patrice Scott Remix,Isle of Taste (Patrice Scott Remix),Session Victim,2020-05-01,374375,32,0.306,0.591,0.59,7,0.637,0.944,0.0789,-11.612,0.0485,0,108.99,4
+Like this,How can I,박혜진 Park Hye Jin,2020-06-09,245804,0,0.164,0.704,0.18,2,0.542,0.909,0.0779,-11.167,0.0355,1,125.06,4
+You've Got That Sound,You've Got That Sound,Dan Shake,2020-07-15,365548,31,0.00272,0.748,0.344,2,0.771,0.884,0.0613,-11.153,0.0441,1,111.995,4
+Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed],Club Future Nostalgia (DJ Mix),Dua Lipa,2020-08-28,180040,45,0.0697,0.696,0.81,2,0.885,0.0217,0.344,-7.279,0.0583,1,120.283,4
+Bamboo Mask,Bamboo Mask,Boyoca,2021-07-09,223432,29,0.0105,0.773,0.769,11,0.927,0.885,0.182,-5.867,0.0352,0,122.017,4
+Holding You,Holding You,Daniel Bortz,2020-08-21,308877,32,0.00545,0.766,0.11,4,0.669,0.724,0.11,-10.643,0.0634,0,125.019,4
+Piano House,Piano House,Salary Boy,2020-08-17,337341,30,0.000268,0.642,0.707,8,0.932,0.0343,0.24,-8.508,0.0449,1,126.014,4
+Street Swimming,Street Swimming,Adelphi Music Factory,2021-07-23,182307,29,0.00494,0.897,0.562,11,0.914,0.537,0.218,-2.345,0.403,0,130.007,4
+"Jump Into The Light - 7"" Mix",Jump Into The Light,Horse Meat Disco,2020-07-17,216553,33,0.00125,0.835,0.888,6,0.828,0.0363,0.244,-4.507,0.0318,0,114.979,4
+Lightenup - Alex Metric Remix,Lightenup (Alex Metric Remix),Parcels,2019-02-01,438717,42,0.00568,0.729,0.447,7,0.689,0.282,0.0694,-5.945,0.0396,1,123.018,4
+Int'l Swayers Anthem - Radio Edit,Int'l Swayers Anthem,Big Miz,2019-04-26,240000,0,0.000102,0.597,0.723,2,0.912,0.906,0.0528,-9.082,0.0379,1,123.995,4
+Patti,Patti,Tom Everett,2020-08-21,202142,36,0.000767,0.877,0.902,5,0.83,0.0013,0.217,-5.94,0.0776,0,125.988,4
+Out The Fire (At The Hotel) - Radio Edit,Out The Fire (At The Hotel),Franky Rizardo,2021-06-18,214687,53,0.15,0.849,0.541,11,0.912,5.92e-05,0.198,-6.364,0.321,0,128.03,4
+I Miss Having Someone To Talk To,I Miss Having Someone To Talk To,Folamour,2020-05-08,223742,49,0.25,0.761,0.889,9,0.754,0.0264,0.068,-7.223,0.0449,0,113.997,4
+Move Out the Way - Radio Edit,Coffee in the Morning EP,Dam Swindle,2020-06-05,229987,28,0.00661,0.789,0.716,9,0.884,0.53,0.186,-8.125,0.055,0,123.014,4
+Tokyo,On a Different Page,1000 Beasts,2020-07-17,235752,33,0.188,0.744,0.838,0,0.341,0.157,0.104,-16.753,0.115,1,112.919,4
+Spice Run,Spice Run,Dam Swindle,2021-02-19,349972,0,0.00562,0.795,0.295,7,0.765,0.781,0.0622,-9.492,0.0998,1,127.01,4
+19 - Josh Butler Remix,19,Piem,2021-07-16,186689,37,0.00205,0.817,0.72,11,0.687,0.777,0.0685,-7.272,0.0786,0,125.992,4
+Walking Away,Walking Away,Loods,2019-07-12,181426,38,0.000814,0.671,0.725,9,0.872,0.102,0.352,-7.095,0.0402,1,127.988,4
+So Sweet,So Sweet,Thomaz Krauze,2019-05-27,382000,32,0.00567,0.811,0.957,0,0.831,0.716,0.0295,-6.562,0.0942,1,124.012,4
+Fanfa,Fanfa,Athlete Whippet,2021-05-21,290740,0,0.00315,0.66,0.862,10,0.925,0.805,0.0634,-9.596,0.045,0,122.522,4
+Desire,13th Hour Vol. 4,Swales,2020-06-05,354098,0,0.00152,0.739,0.666,11,0.6,0.881,0.0667,-9.075,0.0479,0,123.986,4
+Electric Drama,Electric Drama,Lovers,2019-07-26,378136,34,0.00102,0.646,0.589,7,0.855,0.141,0.126,-8.69,0.0415,0,121.993,4
+What You Mean to Me,Free Fall,CINTHIE,2021-07-09,384960,25,0.0101,0.798,0.325,1,0.942,0.945,0.0513,-9.461,0.0835,0,125.012,4
+Hot Summer Love,Hot Summer Love,Jordan Astra,2019-07-01,254072,0,0.118,0.763,0.827,9,0.596,0.00177,0.123,-5.756,0.0538,0,103.982,4
+Desire,Desire,Froman,2020-07-21,230281,34,0.0683,0.67,0.175,0,0.834,0.914,0.0743,-7.457,0.0417,0,122.004,4
+NYC Dirty Talks,JAH Love,Black Loops,2019-05-17,383500,0,0.0241,0.892,0.495,8,0.579,0.821,0.0804,-8.791,0.108,0,125.988,4
+Ho Chi Min,Trips #2: Vietnam,Red Axes,2019-05-24,440341,0,0.159,0.765,0.53,2,0.83,0.439,0.0681,-6.768,0.0517,1,118.002,4
+Like The Sun - Radio Edit,Like The Sun,Ross Couch,2020-06-18,197000,34,0.00966,0.657,0.509,6,0.956,0.000223,0.0725,-5.194,0.0762,0,120.051,4
+Rushing Back,Rushing Back,Infinity Ink,2019-02-01,224516,29,0.00299,0.771,0.494,7,0.652,0.0219,0.0963,-9.422,0.0463,1,124.018,4
+I Discover,I Discover,Felix Da Housecat,2021-03-26,155750,35,0.00329,0.673,0.655,11,0.895,0.21,0.16,-6.987,0.0553,0,126.027,4
+Dance baby oh,Dance baby oh / Ko sar ra di ep,Basti Grub,2019-06-28,407960,27,0.00671,0.793,0.581,6,0.661,0.121,0.121,-7.077,0.0699,0,124.005,4
+This Moment,This Moment,tade kop,2020-06-12,476160,28,0.0395,0.801,0.517,8,0.34,0.882,0.0918,-15.904,0.0903,1,125.006,4
+Hydrate,Hydrate EP,Chaos In The CBD,2019-07-26,382572,30,0.00852,0.705,0.0685,2,0.654,0.868,0.107,-10.782,0.0461,1,118.001,4
+For A Fool,For A Fool,Storm Queen,2021-02-05,180918,29,0.000453,0.765,0.746,5,0.656,0.393,0.0335,-7.286,0.0356,0,123.042,4
+Give You Up,New Leaf,Bantum,2021-05-25,283636,36,0.00324,0.744,0.595,7,0.784,0.872,0.128,-7.852,0.0489,0,109.995,4
+Satisfy Your Fantasy,Satisfy Your Fantasy,CINTHIE,2020-05-27,424119,0,0.00138,0.608,0.452,6,0.73,0.856,0.204,-10.97,0.0423,0,127.02,4
+Ritmo 6,Tannin,Christian S,2019-07-19,299776,25,0.0136,0.805,0.366,6,0.514,0.909,0.0803,-13.641,0.0658,1,123.994,4
+Illusion,Illusion,Mangabey,2020-06-17,345346,2,0.00236,0.799,0.638,7,0.399,0.599,0.0439,-13.061,0.0562,0,125.037,4
+Cruel Summer - Part I (feat. Zampera & Muttofunk),Cruel Summer (feat. Zampera & Muttofunk),North of Loreto,2019-06-21,185514,31,0.00457,0.808,0.615,1,0.355,0.851,0.0881,-12.027,0.047,1,114.981,4
+LoMhlaba - Original Mix,LoMhlaba EP,Cee ElAssaad,2020-06-19,472904,33,0.00171,0.698,0.257,1,0.525,0.503,0.0309,-11.542,0.0508,0,119.986,4
+Lela And Mari,Travel Stories,Tilman,2019-07-26,372888,26,4.58e-05,0.775,0.456,7,0.843,0.925,0.239,-7.699,0.0394,0,124.009,4
+Dizzy (Joe Hertz Remix),Dizzy (Joe Hertz Remix),Tim Atlas,2019-02-22,239603,0,0.0383,0.866,0.205,5,0.559,0.0394,0.343,-9.755,0.0593,0,120.984,4
+Point One,Point One,Demi Riquísimo,2019-08-09,275500,26,0.000268,0.674,0.47,10,0.905,0.921,0.0876,-8.39,0.0413,0,120.01,4
+Welcome To Organic,Mount Liberation Unlimited,Mount Liberation Unlimited,2019-05-31,299467,33,0.0046,0.72,0.517,0,0.878,0.511,0.146,-10.375,0.0678,1,117.849,4

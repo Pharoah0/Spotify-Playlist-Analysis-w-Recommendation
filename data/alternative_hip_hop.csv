@@ -1,0 +1,51 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,valence,key,energy,instrumentalness,liveness,loudness,speechiness,mode,tempo,time_signature
+Headshots (4r Da Locals),Headshots (4r Da Locals),Isaiah Rashad,2021-06-18,193208,59,0.0308,0.894,0.661,3,0.615,0.00921,0.309,-6.269,0.0826,1,120.0,4
+Charmander,Charmander,Aminé,2021-10-25,131883,59,0.542,0.708,0.596,10,0.552,0.00377,0.175,-7.101,0.0714,1,87.195,4
+Wraith,Wraith,Chance the Rapper,2022-05-17,147692,64,0.162,0.957,0.687,7,0.528,1.3e-06,0.615,-6.025,0.128,0,130.001,4
+Good Friday,Good Friday,Kota the Friend,2022-04-15,221624,57,0.565,0.827,0.147,8,0.692,0.0,0.102,-6.993,0.199,1,99.984,4
+Somethin Wrong In Heaven,Somethin Wrong In Heaven,Marlon Craft,2022-05-10,165939,49,0.0409,0.674,0.492,1,0.734,0.0,0.166,-7.204,0.351,1,93.242,4
+Off The Drugs,Off The Drugs,TOBi,2021-07-14,177273,49,0.136,0.636,0.52,3,0.561,0.0,0.111,-7.727,0.423,1,102.726,5
+Surround Sound (feat. 21 Savage & Baby Tate),Surround Sound (feat. 21 Savage & Baby Tate),JID,2022-01-14,229938,75,0.156,0.57,0.517,5,0.573,0.0,0.256,-6.935,0.476,1,76.006,4
+Wat U Sed (feat. Iamdoechii & Kal Banx),Wat U Sed (feat. Iamdoechii & Kal Banx),Isaiah Rashad,2021-07-23,176682,50,0.0807,0.84,0.525,11,0.641,0.0515,0.322,-6.814,0.313,1,163.028,4
+Channel Zero,Channel Zero,Raury,2022-02-11,230170,42,0.0319,0.592,0.703,4,0.841,0.176,0.081,-9.842,0.0655,0,119.733,4
+Get Paid,Get Paid,Whookilledkenny,2022-04-15,151698,44,0.0665,0.888,0.616,5,0.633,3.43e-05,0.0824,-5.784,0.112,0,105.967,4
+Outside,Outside,Kota the Friend,2021-04-21,203793,62,0.342,0.86,0.6,1,0.749,0.0,0.446,-6.556,0.0905,0,99.989,4
+Wimbledon,Wimbledon,Free Party,2022-05-20,142409,41,0.0859,0.87,0.44,1,0.435,0.0,0.0934,-12.141,0.372,1,148.885,4
+Medicine,Medicine,CJ Fly,2021-04-20,145466,34,0.379,0.833,0.352,9,0.651,0.000646,0.112,-4.399,0.12,1,136.984,4
+Psychedelic Views (feat. IDK),Psychedelic Views (feat. IDK),Sad Night Dynamite,2021-08-18,280000,53,0.127,0.82,0.479,1,0.736,0.0,0.408,-7.411,0.0542,1,119.997,4
+A Bar About a Bar,A Bar About a Bar,Chance the Rapper,2022-05-27,65480,0,0.172,0.561,0.795,9,0.574,0.0,0.105,-8.315,0.377,0,80.107,4
+"Come On, Let's Go (with Nigo)",I Know NIGO!,Nigo,2022-03-25,199500,74,0.136,0.732,0.488,11,0.734,0.000901,0.165,-7.968,0.0974,1,145.722,4
+Black Tame,Don't Go Tellin' Your Momma,Topaz Jones,2021-04-23,252373,47,0.314,0.627,0.637,11,0.81,0.0,0.546,-4.971,0.284,1,100.136,4
+LL Cool J,Shape Up,Leikeli47,2022-05-13,213840,41,0.168,0.803,0.504,1,0.456,9.15e-06,0.28,-7.629,0.45,1,94.812,4
+Legal Sins,Legal Sins,Kemba,2022-02-22,210125,51,0.0735,0.741,0.263,2,0.664,0.0,0.378,-5.167,0.0671,1,119.984,4
+Ghetto 24 (feat. Tinashe),Superghetto,Buddy,2022-03-25,149342,45,0.725,0.766,0.641,7,0.568,1.29e-06,0.109,-8.414,0.0973,1,89.944,4
+AMERICAN HORROR STORY,AMERICAN HORROR STORY,EARTHGANG,2021-12-08,309570,26,0.011,0.803,0.699,6,0.625,0.0,0.117,-6.287,0.309,1,149.953,4
+Still (feat. 6LACK and Smino),Few Good Things,Saba,2022-02-04,225546,56,0.386,0.487,0.427,1,0.63,0.000133,0.464,-9.942,0.555,1,76.349,4
+COUNT ON ME,COUNT ON ME,BROCKHAMPTON,2021-04-01,155200,49,0.0391,0.782,0.522,0,0.497,0.0,0.209,-5.415,0.286,1,77.488,4
+Bird Calling,Bird Calling,Mark Ronson,2022-05-20,183826,54,0.144,0.532,0.44,11,0.581,4.67e-05,0.163,-10.021,0.424,0,75.51,1
+Rollin' Wit The Homies (feat. Buddy),Rollin' Wit The Homies (feat. Buddy),Kent Jamz,2022-04-28,243773,46,0.0811,0.846,0.645,10,0.817,1.05e-05,0.127,-7.206,0.101,0,87.469,4
+4K,4K,Duckwrth,2021-07-28,187619,42,0.025,0.789,0.401,4,0.628,5.12e-05,0.634,-5.447,0.0466,0,126.064,4
+AIN'T GON STOP ME,Ain't Gon Stop Me,reggie,2021-03-17,96000,52,0.00759,0.618,0.533,6,0.742,0.0,0.134,-4.68,0.356,0,80.167,4
+16,The Melodic Blue,Baby Keem,2021-09-10,156040,74,0.0918,0.701,0.57,1,0.782,2.31e-06,0.124,-4.987,0.138,1,94.03,4
+Dear Fear,Dear Fear,Kota the Friend,2022-01-07,199339,45,0.798,0.46,0.338,1,0.762,0.0,0.143,-6.718,0.382,1,73.552,4
+2020 Vision,2020 Vision,Raury,2022-03-11,278918,37,0.0345,0.875,0.702,9,0.667,4.58e-05,0.0738,-8.321,0.0743,1,111.015,4
+terms (feat. Dominic Fike & Denzel Curry),TYRON,slowthai,2021-02-12,192733,55,0.153,0.727,0.238,10,0.578,3.59e-05,0.142,-10.516,0.225,1,140.044,4
+WIDE Open,WIDE Open,tobi lou,2021-09-03,205714,41,0.321,0.699,0.516,11,0.626,0.0011,0.666,-5.887,0.0432,0,139.949,4
+Popeye,Popeye,Peach Tree Rascals,2021-07-16,174239,49,0.203,0.829,0.835,8,0.72,0.0,0.39,-5.727,0.141,1,96.051,4
+Avalanche,Avalanche,reggie,2021-09-22,148280,50,0.209,0.694,0.919,1,0.796,3.09e-05,0.288,-6.7,0.302,0,156.861,4
+UP,UP,Kota the Friend,2022-05-06,211687,58,0.225,0.73,0.494,9,0.718,0.0,0.198,-4.661,0.241,0,119.962,4
+Taco,Taco,IDK,2022-04-08,144868,55,0.0373,0.656,0.781,1,0.805,0.0,0.676,-7.341,0.364,0,105.924,4
+SIERRA NIGHTS (feat. Ryan Beatty),SIERRA NIGHTS (feat. Ryan Beatty),Kevin Abstract,2021-08-19,263720,55,0.0854,0.696,0.397,1,0.635,1.15e-05,0.107,-5.854,0.0706,1,147.901,4
+Strange Love - Single Edit,Strange Love - Single Edit,Cautious Clay,2021-06-01,181483,45,0.419,0.656,0.826,1,0.701,1.2e-05,0.102,-7.056,0.0937,0,90.024,4
+Don't Like U,Don't Like U,Terry Presume,2022-03-10,152475,44,0.562,0.845,0.539,3,0.489,2.54e-05,0.116,-8.523,0.228,0,142.112,4
+peon,peon,Ayotemi,2021-11-26,222439,35,0.499,0.585,0.283,11,0.375,0.0,0.0944,-10.611,0.404,0,122.267,4
+Dog Food (feat. Denzel Curry),Dog Food (feat. Denzel Curry),IDK,2022-04-29,184123,58,0.00301,0.704,0.367,7,0.893,1.82e-05,0.571,-5.403,0.0571,1,105.018,4
+Contact,Contact,Caleborate,2021-02-24,269418,43,0.396,0.771,0.621,11,0.459,0.0,0.105,-13.681,0.234,1,90.068,4
+Plead The .45th,Judas and the Black Messiah: The Inspired Album,Judas and the Black Messiah,2021-02-12,140470,39,0.243,0.668,0.774,5,0.566,0.000614,0.16,-5.791,0.294,0,84.707,4
+"ACAB (feat. 7000, redveil, Chance the Rapper)","ACAB (feat. 7000, redveil, Chance the Rapper)",Supa Bwe,2022-02-04,180673,38,0.0185,0.72,0.602,2,0.596,0.0,0.102,-8.933,0.359,1,71.647,4
+Nature Heals,Nature Heals,Wynne,2022-05-11,103187,42,0.546,0.46,0.571,1,0.687,0.0,0.156,-5.395,0.148,1,81.741,4
+Pomegranate,"Lyrics to GO, Vol. 2",Kota the Friend,2021-01-18,109638,58,0.136,0.637,0.373,2,0.489,0.0,0.0954,-9.157,0.444,1,79.175,4
+Raindrops (feat. Flo Milli),Raindrops (feat. Flo Milli),GoldLink,2021-06-16,155573,44,0.506,0.868,0.559,9,0.563,2.53e-05,0.15,-7.448,0.172,0,139.971,4
+Why You in LA,Why You in LA,Keys Open Doors,2020-03-15,188839,44,0.0973,0.939,0.425,11,0.322,9.21e-05,0.0883,-9.463,0.304,1,114.317,4
+Kimbo Slice,Kimbo Slice,Rexx Life Raj,2021-07-16,193109,55,0.181,0.806,0.513,11,0.713,0.0,0.0601,-6.792,0.157,1,121.941,4
+While You on Road,While You on Road,Planet Giza,2022-02-25,182535,45,0.257,0.801,0.721,0,0.533,0.0,0.284,-9.291,0.137,1,141.926,4

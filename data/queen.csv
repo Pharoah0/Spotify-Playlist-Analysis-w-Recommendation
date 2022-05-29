@@ -1,0 +1,31 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,valence,key,energy,instrumentalness,liveness,loudness,speechiness,mode,tempo,time_signature
+Good Morning Gorgeous,Good Morning Gorgeous,Mary J. Blige,2021-12-03,174728,57,0.213,0.519,0.319,1,0.582,0.0,0.0681,-6.778,0.112,1,131.524,3
+Damage,Damage,H.E.R.,2020-10-21,223414,61,0.113,0.646,0.18,1,0.696,0.0,0.115,-6.505,0.065,1,81.336,4
+Not Another Love Song,Not Another Love Song,Ella Mai,2020-10-02,217801,63,0.171,0.499,0.218,4,0.612,4.99e-05,0.0993,-5.947,0.127,0,157.218,4
+Whipped Cream,Shea Butter Baby,Ari Lennox,2019-05-07,288531,55,0.568,0.741,0.418,6,0.397,0.0,0.153,-9.34,0.035,0,85.049,4
+On One,On One,Joyce Wrice,2021-02-26,205808,46,0.312,0.683,0.538,1,0.669,0.0,0.213,-5.276,0.365,0,91.045,4
+DYING 4 YOUR LOVE,TEMPORARY HIGHS IN THE VIOLET SKIES,Snoh Aalegra,2021-07-09,204133,59,0.289,0.709,0.587,6,0.42,0.000196,0.132,-7.643,0.166,0,152.161,4
+Hrs and Hrs,Public Displays Of Affection,Muni Long,2021-11-19,204316,62,0.604,0.511,0.661,8,0.525,0.0,0.111,-4.595,0.183,0,139.885,3
+Pick Up Your Feelings,Heaux Tales,Jazmine Sullivan,2021-01-08,229413,52,0.261,0.643,0.572,2,0.413,0.0,0.117,-6.136,0.0717,0,170.896,3
+No Love (with SZA),Still Over It,Summer Walker,2021-11-05,231497,75,0.17,0.707,0.517,1,0.618,0.0,0.293,-5.825,0.19,0,133.876,4
+Rent Money (feat. Dave East),Rent Money (feat. Dave East),Mary J. Blige,2022-01-21,229884,48,0.219,0.612,0.564,6,0.672,0.0,0.0899,-5.073,0.137,0,92.794,4
+SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16,204763,81,0.433,0.87,0.319,1,0.523,2.07e-05,0.113,-8.052,0.0602,0,110.02,4
+"Collide - From ""Queen & Slim: The Soundtrack""","Collide (From ""Queen & Slim: The Soundtrack"")",Tiana Major9,2019-10-10,205453,53,0.308,0.55,0.423,5,0.666,0.00763,0.185,-6.089,0.0656,1,147.828,4
+Softly,Softly,Arlo Parks,2022-02-01,188780,60,0.0174,0.739,0.214,1,0.522,0.00608,0.199,-10.876,0.0355,1,110.0,4
+Found (feat. Brent Faiyaz),Found (feat. Brent Faiyaz),Tems,2021-09-09,209454,66,0.625,0.821,0.333,7,0.412,1.64e-05,0.0985,-7.795,0.0341,1,109.977,4
+Moment,Moment,Victoria Monét,2020-02-06,179413,46,0.647,0.604,0.356,1,0.434,0.00493,0.122,-8.877,0.0513,1,130.143,4
+Amazing (feat. DJ Khaled),Amazing (feat. DJ Khaled),Mary J. Blige,2021-12-02,160017,49,0.00612,0.629,0.422,8,0.818,0.0,0.141,-4.234,0.369,1,159.9,4
+Nights Over Egypt,Get as Much Love as You Can,The Jones Girls,1981,279800,53,0.499,0.752,0.636,9,0.36,0.291,0.106,-14.317,0.0334,0,110.768,4
+Forget Me Nots - Remastered,Straight From The Heart,Patrice Rushen,2017-12-06,284506,64,0.079,0.918,0.962,6,0.459,0.0593,0.0532,-6.962,0.0427,0,113.818,4
+Honey,Butterfly,Mariah Carey,1997-09-16,299826,60,0.119,0.694,0.675,1,0.824,7.15e-06,0.152,-6.756,0.0909,1,95.833,4
+I Have Nothing,The Bodyguard - Original Soundtrack Album,Whitney Houston,1992-11-17,289160,72,0.576,0.541,0.24,0,0.401,0.0,0.164,-10.499,0.0365,1,152.943,3
+So Gone,After The Storm,Monica,2003,242773,63,0.176,0.618,0.586,8,0.552,0.0,0.252,-6.863,0.0981,1,81.975,4
+Whoa,"- Ugh, those feels again",Snoh Aalegra,2019-08-16,199179,61,0.121,0.665,0.494,0,0.516,0.00152,0.105,-11.27,0.0642,0,93.983,4
+One In A Million,One In A Million,Aaliyah,1996-08-27,270760,65,0.0347,0.741,0.354,11,0.508,6.45e-05,0.0602,-5.099,0.0507,0,121.965,4
+Free,The Best Of Deniece Williams: Gonna Take A Miracle,Deniece Williams,1996-03-12,356760,36,0.851,0.495,0.488,6,0.235,0.0646,0.093,-17.158,0.0359,1,90.859,4
+The Pleasure Principle,Control,Janet Jackson,1986-02-04,297973,49,0.428,0.661,0.889,0,0.711,0.0221,0.132,-11.037,0.0514,1,116.836,4
+"Do Right Woman, Do Right Man",I Never Loved a Man the Way I Love You,Aretha Franklin,1967-03-10,196640,47,0.706,0.668,0.491,9,0.284,0.0,0.131,-10.192,0.0413,1,134.911,3
+Ex-Factor,The Miseducation of Lauryn Hill,Ms. Lauryn Hill,1998-08-25,326533,67,0.118,0.593,0.668,3,0.619,0.0,0.484,-9.003,0.0976,0,80.02,4
+The Rain (Supa Dupa Fly),Supa Dupa Fly,Missy Elliott,1997-07-11,251000,57,0.141,0.836,0.762,6,0.595,0.00375,0.329,-9.338,0.201,1,79.98,4
+Savage,Suga,Megan Thee Stallion,2020-03-06,155497,70,0.0252,0.843,0.68,11,0.741,0.0,0.096,-5.609,0.334,1,168.983,4
+Truth Hurts,Cuz I Love You (Super Deluxe),Lizzo,2019-04-17,173306,45,0.111,0.713,0.39,4,0.626,0.0,0.126,-2.891,0.124,0,158.08,4

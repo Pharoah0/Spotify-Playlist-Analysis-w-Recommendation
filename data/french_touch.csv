@@ -1,0 +1,51 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,valence,key,energy,instrumentalness,liveness,loudness,speechiness,mode,tempo,time_signature
+Da Funk,Homework,Daft Punk,1997-01-17,328680,62,0.00196,0.806,0.892,0,0.7,0.891,0.267,-5.269,0.0752,0,111.215,4
+Starlight - Radio Edit,Starlight,The Supermen Lovers,2001-01-01,234400,60,0.000424,0.739,0.786,0,0.679,0.0187,0.389,-5.079,0.0373,1,127.487,4
+You Are My High,Midnight Funk,Demon,1999-01-01,229426,53,7.58e-06,0.644,0.239,2,0.93,0.865,0.146,-5.477,0.0471,1,120.877,4
+Lucky Star,Hold Up (Remastered),Superfunk,2000,295693,0,0.0516,0.776,0.901,6,0.682,0.000237,0.234,-7.426,0.0738,1,125.857,4
+Lady - Hear Me Tonight,Modjo (Remastered),Modjo,2001,307153,76,0.00793,0.72,0.869,6,0.808,0.0293,0.0634,-5.627,0.0379,1,126.041,4
+Nightcall,Nightcall,Kavinsky,2010,258413,70,0.00842,0.532,0.361,9,0.874,0.012,0.452,-5.183,0.0482,0,91.038,4
+Music Sounds Better With You - Radio Edit,Music Sounds Better With You,Stardust,1998-07-20,260906,65,0.00128,0.729,0.359,5,0.662,0.208,0.305,-7.191,0.337,0,124.149,4
+If I Ever Feel Better,If I Ever Feel Better,Phoenix,2000,222826,44,0.083,0.775,0.812,6,0.51,0.00163,0.108,-9.53,0.147,0,119.707,4
+D.A.N.C.E,Justice,Justice,2007-06-11,242266,63,0.034,0.613,0.496,6,0.962,0.0,0.824,-5.07,0.278,0,113.015,4
+Around the World,Homework,Daft Punk,1997-01-17,429533,74,0.00356,0.956,0.841,7,0.795,0.889,0.0906,-5.311,0.15,1,121.294,4
+Midnight City,"Hurry up, We're Dreaming",M83,2011-10-17,243960,75,0.0182,0.507,0.272,11,0.729,1.4e-06,0.0658,-5.399,0.0393,0,105.013,4
+Flat Beat - Radio Edit,Flat Beat,Mr. Oizo,1999-03-15,237266,0,0.000114,0.934,0.587,0,0.435,0.203,0.283,-11.446,0.686,1,129.033,4
+Intro,Running - Single,Alan Braxe,2000-04-01,294720,53,0.0292,0.859,0.61,1,0.848,0.00151,0.304,-5.842,0.216,1,123.937,5
+Club Soda,"Best of French Touch, Vol. 2",Various Artists,2021-12-17,241984,24,0.333,0.849,0.663,10,0.642,0.718,0.16,-12.68,0.129,0,120.277,4
+Night Patrol,Night Patrol - Single,Lifelike,2013-12-16,470000,42,0.111,0.684,0.686,0,0.922,0.752,0.309,-4.047,0.0488,1,120.012,4
+Wake Up,A bout de souffle - EP,Laurent Garnier,1993-04-01,458000,36,0.0553,0.672,0.522,9,0.953,0.554,0.07,-6.411,0.0516,0,135.722,4
+Toop Toop,15 Again (Deluxe Edition),Cassius,2006,167493,51,0.089,0.769,0.916,2,0.836,2.83e-06,0.369,-4.621,0.266,1,131.989,4
+Zdarlight,Idealism,Digitalism,2007-05-09,340773,44,0.00798,0.779,0.603,9,0.504,0.819,0.0696,-7.351,0.0524,0,123.965,4
+Voyager,Discovery,Daft Punk,2001-03-12,227866,60,0.288,0.669,0.28,7,0.743,0.805,0.309,-11.488,0.0494,1,119.881,4
+In Your Arms (We Gonna Make It),Strange Attitude (Special Edition),Benjamin Diamond,2000-09-19,261333,0,0.000104,0.775,0.821,9,0.701,3.7e-05,0.379,-7.511,0.0333,0,125.769,4
+In Love With You,In Love With You - Single,The Paradise,2003-02-14,254066,46,0.000135,0.426,0.12,1,0.903,0.0256,0.699,-5.822,0.0659,1,121.03,4
+I <3 U SO,The Rawkers (I <3 U SO Edition),Cassius,2011-06-13,222407,0,0.00793,0.126,0.136,9,0.798,0.237,0.221,-5.62,0.0424,0,188.718,3
+La ritournelle,Politics,Sébastien Tellier,2004-01-01,454480,56,0.00405,0.558,0.526,0,0.723,0.501,0.0863,-11.214,0.0312,0,102.833,4
+Breathe,genetic world,Télépopmusik,2001-04-30,296226,0,0.421,0.687,0.571,1,0.646,0.41,0.362,-13.639,0.0462,1,113.993,4
+Prix Choc - Radio Edit - High Mix,Prix Choc Remixes - EP,Étienne de Crécy,1998-01-01,235906,0,0.0156,0.714,0.683,5,0.912,0.322,0.0999,-6.5,0.0346,0,127.869,4
+Amour,Defected Presents House Masters: DJ Gregory & Julien Jabre,House Master,2009-06-29,352360,37,0.000119,0.799,0.618,1,0.772,0.8,0.117,-9.01,0.0651,1,127.02,4
+Sexy Boy,Moon Safari,Air,1998-01-16,298466,57,0.0011,0.437,0.211,0,0.652,0.614,0.111,-6.152,0.0288,1,111.888,4
+The Man With The Red Face - Video Edit,Unreasonable Behaviour,Laurent Garnier,2000-02-07,551493,0,0.0151,0.693,0.441,3,0.731,0.934,0.129,-11.019,0.0407,1,131.99,4
+DVNO - Radio Edit,DVNO,Justice,2008-03-24,191612,35,0.00781,0.612,0.628,8,0.949,0.000336,0.205,-3.056,0.347,0,123.984,4
+Poison Lips,Flashmob,Vitalic,2009-09-28,234240,0,0.000319,0.628,0.502,10,0.92,0.609,0.0785,-5.052,0.0417,0,126.323,4
+Mothership Reconnection (feat.Parliament/Funkadelic) - (Daft Punk Remix),"Musique, Vol. 1",Daft Punk,2006-03-29,240533,45,0.0886,0.846,0.78,1,0.832,0.2,0.0737,-5.486,0.42,1,126.132,4
+Gym tonic - Original,Paradise,Bob Sinclar,1998-09-01,372160,43,0.0065,0.794,0.374,1,0.638,1.96e-05,0.04,-4.041,0.0887,1,130.015,4
+Feeling for You,1999 (Deluxe Edition),Cassius,1999,277800,49,0.000141,0.828,0.73,6,0.769,0.741,0.184,-10.409,0.0828,1,133.055,4
+Pocket Piano,Pocket Piano,DJ Mehdi,2008-12-08,273026,0,0.0515,0.587,0.431,1,0.811,0.458,0.116,-7.16,0.0392,0,117.901,4
+Baby I'm Yours,By Your Side,Breakbot,2012-09-17,215506,66,0.726,0.829,0.758,2,0.792,5.83e-06,0.122,-3.755,0.0668,0,118.05,4
+Sacré français,Yellow Productions: 20 Years of Music,Various Artists,2014-11-17,294011,38,0.0164,0.689,0.473,10,0.88,0.595,0.224,-8.417,0.152,0,190.497,4
+Que Sera,Tales of the Forgotten Melodies,Wax Tailor,2005-02-22,164093,56,0.273,0.714,0.415,9,0.721,0.245,0.174,-5.049,0.0783,1,83.021,4
+Fallin' in love,In The Light,Shazz,2001-10-02,312653,33,0.158,0.785,0.894,6,0.554,0.299,0.104,-11.96,0.0479,0,126.026,4
+Smile (feat. Alex Gopher & Asher Roth) - Vocal Mix,Smile (feat. Alex Gopher & Asher Roth) [Vocal Mix],Étienne de Crécy,2015-09-11,206346,0,0.0041,0.797,0.588,10,0.743,0.00324,0.116,-8.019,0.059,0,120.06,4
+A grand love theme,A Grand Love Story,Kid Loco,1997,242800,52,0.502,0.553,0.46,9,0.659,0.859,0.184,-9.281,0.0613,1,183.815,4
+Look,Sexuality,Sébastien Tellier,2008,274466,0,0.549,0.914,0.822,7,0.391,0.521,0.116,-8.015,0.0825,0,89.993,4
+Adore,Adore,I:Cube,1999-05-10,422200,38,0.0713,0.601,0.359,0,0.905,0.89,0.296,-8.469,0.038,1,111.063,4
+Peace and tranquility to earth,listener's digest,Roudoudou,1998,253706,47,0.00513,0.697,0.17,6,0.629,0.387,0.153,-6.976,0.0328,0,97.972,4
+Edony - Clap your Hands,Africanism,Martin Solveig,2003-02-20,491333,33,0.00515,0.801,0.15,9,0.944,0.613,0.555,-7.932,0.0856,0,125.0,4
+The Child - Radio Edit,The Child,Alex Gopher,1999-01-01,220266,36,0.03,0.866,0.826,1,0.798,0.023,0.127,-8.902,0.0395,1,107.888,4
+Am I Wrong - Original Version,Am I Wrong Remixes 2012 - EP,Étienne de Crécy,2012-02-27,231912,0,0.0943,0.527,0.43,1,0.852,0.000144,0.783,-3.504,0.301,1,124.907,4
+Signatune - Thomas Bangalter Edit,Lucky Boy At Night,DJ Mehdi,2007-05-07,218626,0,5.69e-05,0.482,0.187,4,0.733,0.958,0.605,-9.978,0.0771,0,122.972,4
+Venus (Sunshine People) [DJ Gregory Remix],Venus (sunshine people),Cheek,2009-12-30,296106,35,0.00152,0.784,0.429,7,0.728,0.237,0.0889,-6.19,0.139,1,125.929,4
+Bel Amour (Classic Vocal Mix),Bel Amour (Classic Vocal Mix),Bel Amour,2018-12-22,324213,38,0.00879,0.62,0.428,0,0.906,0.119,0.106,-8.022,0.133,1,126.195,4
+Cut Dick,Lambs Anger,Mr. Oizo,2008-11-17,171080,41,0.000139,0.807,0.746,7,0.721,0.907,0.106,-4.967,0.0423,1,115.452,4

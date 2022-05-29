@@ -1,0 +1,51 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,valence,key,energy,instrumentalness,liveness,loudness,speechiness,mode,tempo,time_signature
+OnlyL,OnlyL,TSHA,2021-06-14,227543,52,0.716,0.645,0.109,4,0.883,0.000259,0.106,-6.514,0.168,1,133.92,4
+Out The Door,Out The Door,Hot Since 82,2022-04-22,186964,52,0.000254,0.643,0.662,6,0.887,0.394,0.0557,-10.206,0.0407,1,123.958,4
+Walking On Water (feat. Totally Enormous Extinct Dinosaurs),Walking On Water (feat. Totally Enormous Extinct Dinosaurs),The Knocks,2022-01-14,216106,58,0.399,0.768,0.218,7,0.613,0.524,0.196,-7.098,0.133,0,124.956,4
+Someday - salute Remix,Someday (salute Remix),DJ Seinfeld,2022-03-08,289411,47,0.0477,0.627,0.686,8,0.894,0.392,0.117,-8.923,0.12,0,135.996,4
+If Life Could Be This Way,If Life Could Be This Way,Crazy P,2022-02-09,334842,45,0.394,0.731,0.641,0,0.692,0.13,0.0698,-7.021,0.0347,0,95.985,4
+Certain People,Certain People / Big Jealous,Poison Zcora,2022-03-25,249160,37,0.337,0.644,0.658,1,0.734,0.918,0.103,-10.815,0.0413,1,126.013,4
+Better Than Before,Better Than Before,Gabriel Gifford,2021-08-17,231352,41,0.0864,0.672,0.637,7,0.512,6.97e-05,0.229,-9.282,0.0765,1,100.003,4
+Still Deciding,Fools Mate,Big Miz,2022-04-15,224648,41,0.284,0.717,0.501,9,0.795,0.00655,0.115,-6.245,0.0402,0,121.01,4
+Dark Side,Dark Side,Thor Rixon,2020-10-30,245601,34,0.0453,0.726,0.771,6,0.664,0.423,0.125,-10.169,0.074,1,113.942,4
+Passion Controller,Passion Controller,Khazali,2022-01-14,172219,47,0.0191,0.697,0.289,1,0.739,0.0256,0.214,-8.356,0.128,1,112.058,4
+GO (Detroit Swindle Remix),GO (Detroit Swindle Remix),Hablot Brown,2020-09-09,279059,44,0.0331,0.735,0.594,7,0.56,5.17e-05,0.0498,-10.053,0.0397,0,104.994,4
+Hummingbird,Hummingbird,Anish Kumar,2022-04-27,177786,44,0.00379,0.677,0.678,8,0.832,0.9,0.176,-7.606,0.035,0,129.029,4
+Skylab District,Skylab District,Barry Can't Swim,2021-02-26,217768,39,0.0349,0.561,0.128,2,0.818,0.342,0.0635,-8.366,0.042,0,127.0,4
+Resonate,The Journey,Folamour,2021-06-11,259146,40,0.00256,0.776,0.749,2,0.645,0.00203,0.0768,-5.892,0.0393,1,120.029,4
+Keep Moving - Dave Lee Remix,Keep Moving (Dave Lee Remix),Jungle,2021-12-01,363492,43,0.00833,0.796,0.649,5,0.568,0.00416,0.0399,-7.539,0.0501,0,117.997,4
+Little Girl,Little Girl,Rafau Etamski,2021-06-11,252493,45,0.0509,0.645,0.461,1,0.867,0.000237,0.11,-4.808,0.0827,1,87.809,4
+Body,24,Kharfi,2021-02-17,179293,39,0.0101,0.578,0.327,8,0.873,6.99e-05,0.133,-5.782,0.374,1,126.011,4
+El Layali,Amor Fati,Barry Can't Swim,2021-07-09,189760,51,0.0539,0.743,0.617,1,0.554,0.83,0.0919,-12.539,0.0482,1,122.004,4
+JOY (Meet Me In My Dreams),Human Again,Joy Anonymous,2021-09-03,218849,31,0.208,0.738,0.803,1,0.774,3.66e-05,0.157,-5.628,0.0982,1,116.933,4
+Delectable,Delectable,Eliza Rose,2022-03-11,346466,41,0.0338,0.813,0.602,8,0.588,0.00032,0.114,-8.524,0.106,1,133.001,4
+Mama Used to Say,Mama Used to Say,Edd,2022-01-21,176712,42,0.043,0.742,0.716,5,0.937,0.00583,0.428,-6.116,0.0444,0,128.053,4
+Eastern Lights,Eastern Lights,Tseba,2021-12-10,251715,45,0.00335,0.577,0.424,11,0.943,0.912,0.252,-5.788,0.0348,0,124.991,4
+Buccho Ni Ba Bhai (Grindin'),Buccho Ni Ba Bhai (Grindin’),Surya Sen,2022-04-13,156912,38,0.0368,0.854,0.644,1,0.807,0.00452,0.707,-5.708,0.0617,1,121.053,4
+Be Patient,Be Patient,Loverground,2021-02-10,216793,46,0.224,0.688,0.35,0,0.462,0.217,0.0987,-13.723,0.032,1,114.036,4
+All I Need (DJ-Kicks) - Edit,All I Need (DJ-Kicks),Jayda G,2021-04-09,219848,0,0.0209,0.694,0.856,0,0.887,0.826,0.084,-8.503,0.0759,1,120.04,4
+GLY,GLY,Catching Flies,2021-04-21,220623,57,0.25,0.669,0.394,5,0.563,0.917,0.142,-10.437,0.0357,0,119.974,4
+Give You Up,New Leaf,Bantum,2021-05-25,283636,36,0.00324,0.744,0.595,7,0.784,0.872,0.128,-7.852,0.0489,0,109.995,4
+Don't You Like It?,Don't You Like It?,49th & Main,2020-06-24,226043,0,0.0922,0.726,0.481,1,0.606,1.86e-05,0.154,-11.157,0.109,0,115.943,4
+Waterfall,Waterfall,Disclosure,2022-03-22,232120,69,0.0212,0.691,0.834,11,0.733,5.61e-05,0.0894,-6.887,0.0572,0,128.038,4
+Luv Like,Luv Like,Nia Archives,2022-02-02,186025,48,0.283,0.676,0.727,2,0.885,0.694,0.232,-6.238,0.0502,1,159.984,4
+Greatest Love - Edit,Greatest Love,Dj Streaks,2020-07-10,230551,51,0.268,0.691,0.743,10,0.659,0.883,0.108,-11.817,0.0439,1,127.015,4
+Bodies,Bodies,The Knocks,2020-07-31,209293,56,0.032,0.584,0.634,11,0.599,0.0,0.0481,-4.243,0.0342,1,112.048,4
+Keep Moving,Keep Moving,Jungle,2021-03-23,240880,10,0.183,0.724,0.569,10,0.603,0.000469,0.0948,-6.261,0.0317,0,111.493,4
+Trouble to Share,Trouble to Share,Just Jack,2020-10-23,240000,0,0.174,0.8,0.654,9,0.566,0.0982,0.0777,-8.558,0.0452,0,112.014,4
+Happy Music,Happy Music / Something on My Mind,Supershy,2022-04-08,232625,63,0.0411,0.777,0.887,11,0.738,0.37,0.0265,-5.861,0.0352,0,123.991,4
+So Close Now,So Close Now,LEGATO,2021-07-16,217380,39,0.0638,0.873,0.726,5,0.911,0.648,0.0779,-9.781,0.0694,0,125.998,4
+Ferris Wheel - Terrace Martin Remix,Ferris Wheel [Feat. Robert Glasper] (Terrace Martin Remix),Sylvan Esso,2020-11-12,177933,46,0.4,0.853,0.468,0,0.414,0.000196,0.127,-8.595,0.0996,1,102.047,4
+Recap (with VanJess & Channel Tres),Recap (with VanJess & Channel Tres),Kito,2021-02-02,177725,58,0.0166,0.771,0.484,11,0.553,3.78e-05,0.145,-8.741,0.121,0,115.002,4
+You Could Be,You Could Be,Anz,2021-08-31,218024,52,0.0123,0.712,0.52,7,0.818,0.141,0.0499,-5.162,0.0368,0,124.012,4
+Lost Inside of Love,Lost Inside of Love EP,CHANEY,2021-11-12,226875,34,0.0182,0.868,0.895,5,0.864,0.0105,0.0683,-6.829,0.14,0,128.033,4
+Time (feat. Rhye),Time (feat. Rhye),SG Lewis,2020-12-08,259173,0,0.0674,0.75,0.614,10,0.819,0.000979,0.308,-6.6,0.151,0,116.054,4
+U Never Know,U Never Know,isle&fever,2020-09-04,250485,39,0.08,0.839,0.481,4,0.636,0.187,0.111,-10.092,0.0418,0,102.998,4
+Drink This Water,Drink This Water,James Alexander Bright,2021-07-14,235513,35,0.0938,0.824,0.837,9,0.605,9.39e-05,0.112,-8.492,0.0441,1,118.861,4
+Ndeko Solo,Ndeko Solo,Afriquoi,2020-05-22,263878,40,0.113,0.69,0.378,9,0.884,0.475,0.109,-7.331,0.0553,0,119.989,4
+Big Bad Mood (feat. Miraa May),Big Bad Mood (feat. Miraa May),Jordan Stephens,2022-01-14,229090,45,0.00205,0.83,0.543,5,0.727,0.000588,0.235,-8.098,0.0615,0,120.976,4
+Renegade,Flowers,TSHA,2020-11-13,215859,41,0.0257,0.734,0.547,9,0.866,0.0906,0.124,-5.453,0.044,0,121.988,4
+So High (feat. Maths Time Joy),So High (feat. Maths Time Joy),Ross Quinn,2021-02-26,232062,47,0.487,0.607,0.164,10,0.483,1.12e-05,0.11,-10.483,0.0729,0,121.914,4
+Joy,Joy,Colour Castle,2020-07-16,247767,26,0.016,0.838,0.825,10,0.808,0.483,0.198,-7.478,0.0352,1,124.006,4
+Frankie & Levan,Sing the Dance Electric,Zach Witness,2021-08-25,221008,36,0.00528,0.742,0.725,9,0.793,0.0557,0.448,-4.616,0.0746,0,126.972,4
+Opening Night,Pure Luxury,NZCA LINES,2020-07-10,208932,35,0.0316,0.795,0.796,0,0.548,0.000224,0.1,-8.962,0.102,1,108.978,4
