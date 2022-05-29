@@ -31,17 +31,17 @@ I used the Spotify API to capture all of the data presented in this repo. To do 
 
 The data pulled in this case was my playlist: 'Instrumentals.'
 <p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/My_Playlist.png" width="75%" height="75%"/>
+    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/My_Playlist.png" width="90%" height="90%"/>
 </p>
 
 This playlist was saved as 'my_playlist.csv' in the data folder in this repo.
 
 I also used playlists based on my listening history, as well as what spotify says is more of what I like.
 <p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Based_on_Recent_Listening.png" width="75%" height="75%"/>
+    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Based_on_Recent_Listening.png" width="85%" height="85%"/>
 </p>
 <p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/More_of_What_You_Like.png" width="75%" height="75%"/>
+    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/More_of_What_You_Like.png" width="85%" height="85%"/>
 </p>
 
 I saved all playlists in these images into the data folder, and you can view their contents there.
@@ -81,7 +81,7 @@ Next, I looked at the distribution columns of the numerical features, a heat map
 Afterward, I compared the distributions between my playlist & my recommended songs dataframe
 
 <p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Feature_Distribution_Comparisons.png" width="75%" height="75%"/>
+    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Feature_Distribution_Comparisons.png" width="95%" height="75%"/>
 </p>
 
 Upon direct comparison of each feature in both datasets, we can see that they appear similar with their distributions, albeit with slight variations.
@@ -97,7 +97,7 @@ Below are the results!
 For ease of viewing, the top 2 models are displayed here. For more results, please see my accompanying jupyter notebook in this repository!
 
 #### Logistic Regression
-<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="25%" height="25%">
+<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="50%" height="50%">
 Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 * 411 True Negatives: Songs not in my playlist
 * 141 False Positives: Predicted songs to be in my playlist, but are not present
@@ -105,7 +105,7 @@ Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 * 28 True Positives: Songs in my playlist
 
 #### SVM
-<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="25%" height="25%">
+<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="50%" height="50%">
 Interpretation of Playlist Inclusion with a Support Vector Machine classifier:
 * 447 True Negatives: Songs not in my playlist
 * 105 False Positives: Predicted songs to be in my playlist, but are not present
@@ -114,7 +114,7 @@ Interpretation of Playlist Inclusion with a Support Vector Machine classifier:
 
 ## Song Recommendation
 <p align="center">
-    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/headphones.jpeg" width="75%" height="75%"/>
+    <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/headphones.jpeg" width="95%" height="95%"/>
 </p>
 
 In my analyzing_playlists notebook, I  compared two different routes of content-based song recommendation.
