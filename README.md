@@ -34,7 +34,7 @@ The data pulled in this case was my playlist: 'Instrumentals.'
     <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/My_Playlist.png" width="90%" height="90%"/>
 </p>
 
-This playlist was saved as 'my_playlist.csv' in the data folder in this repo.
+This playlist was saved as `my_playlist.csv` in the data folder in this repo.
 
 I also used playlists based on my listening history, as well as what spotify says is more of what I like.
 <p align="center">
@@ -100,6 +100,7 @@ For ease of viewing, the top 2 models are displayed here. For more results, plea
 
 #### Logistic Regression
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="50%" height="50%">
+
 Interpretation of Playlist Inclusion with a Logistic Regression classifier:  
 - 411 True Negatives: Songs not in my playlist  
 - 141 False Positives: Predicted songs to be in my playlist, but are not present  
@@ -108,6 +109,7 @@ Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 
 #### SVM
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="50%" height="50%">
+
 Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
 - 447 True Negatives: Songs not in my playlist  
 - 105 False Positives: Predicted songs to be in my playlist, but are not present  
