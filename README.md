@@ -101,18 +101,18 @@ For ease of viewing, the top 2 models are displayed here. For more results, plea
 #### Logistic Regression
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="50%" height="50%">
 Interpretation of Playlist Inclusion with a Logistic Regression classifier:  
-* 411 True Negatives: Songs not in my playlist  
-* 141 False Positives: Predicted songs to be in my playlist, but are not present  
-* 16 False Negatives: Predicted songs to not be in my playlist, but are present  
-* 28 True Positives: Songs in my playlist  
+- 411 True Negatives: Songs not in my playlist  
+- 141 False Positives: Predicted songs to be in my playlist, but are not present  
+- 16 False Negatives: Predicted songs to not be in my playlist, but are present  
+- 28 True Positives: Songs in my playlist  
 
 #### SVM
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="50%" height="50%">
 Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
-* 447 True Negatives: Songs not in my playlist  
-* 105 False Positives: Predicted songs to be in my playlist, but are not present  
-* 18 False Negatives: Predicted songs to not be in my playlist, but are present  
-* 26 True Positives: Songs in my playlist  
+- 447 True Negatives: Songs not in my playlist  
+- 105 False Positives: Predicted songs to be in my playlist, but are not present  
+- 18 False Negatives: Predicted songs to not be in my playlist, but are present  
+- 26 True Positives: Songs in my playlist  
 
 ## Song Recommendation
 <p align="center">
