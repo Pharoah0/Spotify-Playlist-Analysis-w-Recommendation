@@ -17,7 +17,7 @@ There are numerous ways to discover music for this ever-growing playlist, such a
 In this repo, I employ the Spotify API to capture playlists, explore the quality of playlist suggestions, build predictors to see if songs are in my curated playlist, then use recommendation systems for individual songs, pulling from the recommended playlists.
 ## Business Problem
 
-Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators worldwide. Thus, content recommendation is vital for its success and maintaining user satisfaction.
+**Spotify** is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators worldwide. Thus, content recommendation is vital for its success and maintaining user satisfaction.
 
 In this case, Spotify seeks to classify songs to assign to curated playlists. Numerous users, such as myself, primarily listen to a small selection of music. This analysis will help users discover new music as they please, whether via recommendations from the home page or by enhancing one’s playlists. 
 
