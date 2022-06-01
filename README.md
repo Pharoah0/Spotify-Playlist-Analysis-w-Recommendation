@@ -79,7 +79,7 @@ Next, I looked at the distribution columns of the numerical features, a heat map
 * Other key pairings I am noticing are valence & danceability, 
 * Song length, speechiness, popularity & time signature appear to be the least relevant for the impact of features in this playlist.
   * With that said, I usually don't add songs with vocals (or verses) to this playlist. So I will keep speechiness as a critical marker.
-* Energy and loudness, in particular, have the highest multicollinearity seen on this chart. This makes sense to me, as a song with high energy tends to have an increasing rhythmic complexity, whether melodically or in the background accompaniment with various instruments (as reflected in this chart as well.
+* Energy and loudness, in particular, have the highest multicollinearity seen on this chart. This makes sense to me, as a song with high energy tends to have an increasing rhythmic complexity, whether melodically or in the background accompaniment with various instruments (as reflected in this chart as well.)
 Afterward, I compared the distributions between my playlist & my recommended songs dataframe
 
 <p align="center">
@@ -133,8 +133,7 @@ I am choosing this approach because the goal is to recommend specific songs that
 #### The best model is the Support Vector Machine model.
 
 This is because: 
-Based on both the individual model outputs and the direct comparisons, it app
-ears, our SVM machine best predicted songs in my playlists and songs outside of the playlist.
+Based on both the individual model outputs and the direct comparisons, our SVM machine predicted songs in my playlists and songs outside of the playlist best.
 
 I conclude because this classifier incorrectly predicts songs in my playlist less than logistic Regression and retains a similar correct prediction rate as the logistic Regression.
 
@@ -172,5 +171,4 @@ A description of the structure of this repository and its contents:
     ^^ Step-by-step process of utilizing the Spotify API and collecting data from my user account
 └── Spotify-Playlist-Analysis-w-Recommendation.pdf       <- PDF version of project presentation
 └── README.md                       <- The top-level README for reviewers of this project
-
 ```
