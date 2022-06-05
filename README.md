@@ -99,23 +99,23 @@ Below are the results!
 For ease of viewing, the top 2 models are displayed here. 
 For more results, please see my accompanying jupyter notebook in this repository!
 
-#### Logistic Regression
-<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/LR_Model.png" width="50%" height="50%">
-
-Interpretation of Playlist Inclusion with a Logistic Regression classifier:  
-- 411 True Negatives: Songs not in my playlist  
-- 141 False Positives: Predicted songs to be in my playlist, but are not present  
-- 16 False Negatives: Predicted songs to not be in my playlist, but are present  
-- 28 True Positives: Songs in my playlist  
-
 #### SVM
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="50%" height="50%">
 
-Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
+Interpretation of Playlist Inclusion with a Logistic Regression classifier:  
 - 447 True Negatives: Songs not in my playlist  
 - 105 False Positives: Predicted songs to be in my playlist, but are not present  
 - 18 False Negatives: Predicted songs to not be in my playlist, but are present  
 - 26 True Positives: Songs in my playlist  
+
+#### Random Forests
+<img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Random_Forests.png" width="50%" height="50%">
+
+Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
+- 506 True Negatives: Songs not in my playlist  
+- 46 False Positives: Predicted songs to be in my playlist, but are not present  
+- 20 False Negatives: Predicted songs to not be in my playlist, but are present  
+- 24 True Positives: Songs in my playlist  
 
 ## Song Recommendation
 <p align="center">
@@ -130,14 +130,15 @@ One of which will use the cosine similarity from a matrix
 I am choosing this approach because the goal is to recommend specific songs that are similar to my favorite binge-worthy tunes.
 
 ## Conclusions
-#### The best model is the Support Vector Machine model.
+#### The best model is the Random Forests Classifier.
 
-This is because: 
-Based on both the individual model outputs and the direct comparisons, our SVM machine predicted songs in my playlists and songs outside of the playlist best.
+Based on both the individual model outputs and the direct comparisons, our Random Forests had the best overall performance.
 
-I conclude because this classifier incorrectly predicts songs in my playlist less than logistic Regression and retains a similar correct prediction rate as the logistic Regression.
+I conclude because this classifier has the highest ROC Curve & AUC Score
 
-In this case, Decision Trees & Random Forests, despite accounting for class imbalances, seem to rely on automatically predicting for 0: songs not being in my playlist.
+SVM has fewer false positives than Logistic Regression while maintaining a similar Trie Positive rate.
+
+In this case, Decision Trees, despite accounting for class imbalances, seem to rely on automatically predicting for 0: songs not being in my playlist.
 
 #### Song Recommender:
 Though the two different recommenders return different results, there appears to be an agreement with some songs in their results.
