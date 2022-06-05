@@ -136,7 +136,7 @@ Based on both the individual model outputs and the direct comparisons, our Rando
 
 I conclude because this classifier has the highest ROC Curve & AUC Score
 
-SVM has fewer false positives than Logistic Regression while maintaining a similar Trie Positive rate.
+SVM has fewer false positives than Logistic Regression while maintaining a similar True Positive rate.
 
 In this case, Decision Trees, despite accounting for class imbalances, seem to rely on automatically predicting for 0: songs not being in my playlist.
 
