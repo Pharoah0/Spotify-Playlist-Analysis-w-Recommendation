@@ -46,6 +46,8 @@ I also used playlists based on my listening history, as well as what spotify say
 
 I saved all playlists in these images into the data folder, and you can view their contents there.
 
+`Please note that results here are subject to change, as recommended items constantly change based on user activity`
+
 Once I imported the data, I performed EDA to ensure that this data was usable before employing the functions we needed to solve our business problem.
 
 In this case, the data had no null values and a few instances of duplicate entries of songs. Therefore, EDA was minimal.
