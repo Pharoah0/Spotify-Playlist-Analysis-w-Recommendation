@@ -102,7 +102,7 @@ For more results, please see my accompanying jupyter notebook in this repository
 #### SVM
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/SVM_Model.png" width="50%" height="50%">
 
-Interpretation of Playlist Inclusion with a Logistic Regression classifier:  
+Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
 - 447 True Negatives: Songs not in my playlist  
 - 105 False Positives: Predicted songs to be in my playlist, but are not present  
 - 18 False Negatives: Predicted songs to not be in my playlist, but are present  
@@ -111,11 +111,11 @@ Interpretation of Playlist Inclusion with a Logistic Regression classifier:
 #### Random Forests
 <img src="https://github.com/Pharoah0/Spotify-Playlist-Analysis-w-Recommendation/blob/main/images/Random_Forests.png" width="50%" height="50%">
 
-Interpretation of Playlist Inclusion with a Support Vector Machine classifier:  
-- 506 True Negatives: Songs not in my playlist  
-- 46 False Positives: Predicted songs to be in my playlist, but are not present  
-- 20 False Negatives: Predicted songs to not be in my playlist, but are present  
-- 24 True Positives: Songs in my playlist  
+Interpretation of Playlist Inclusion with a Random Forests classifier:  
+- 504 True Negatives: Songs not in my playlist  
+- 48 False Positives: Predicted songs to be in my playlist, but are not present  
+- 21 False Negatives: Predicted songs to not be in my playlist, but are present  
+- 23 True Positives: Songs in my playlist  
 
 ## Song Recommendation
 <p align="center">
@@ -125,7 +125,7 @@ Interpretation of Playlist Inclusion with a Support Vector Machine classifier:
 In my analyzing_playlists notebook, I  compared two different routes of content-based song recommendation.
 
 One of which will use the cosine similarity from a matrix
-& The other uses neighborhood collaborative filtering using the similarity metrics method
+& The other calculates the manhattan distance of each song from a matrix
 
 I am choosing this approach because the goal is to recommend specific songs that are similar to my favorite binge-worthy tunes.
 
@@ -170,6 +170,8 @@ A description of the structure of this repository and its contents:
     ^^ Narrative documentation of analysis in Jupyter notebook
 └── gathering_playlists.ipynb   
     ^^ Step-by-step process of utilizing the Spotify API and collecting data from my user account
-└── Spotify-Playlist-Analysis-w-Recommendation.pdf       <- PDF version of project presentation
+└── secrets.py                      <- File which encloses spotify credentials    
+└── Spotify-Playlist-Analysis-w-Recommendation.pdf       
+    ^^ PDF version of project presentation
 └── README.md                       <- The top-level README for reviewers of this project
 ```
